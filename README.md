@@ -1,6 +1,9 @@
-# themoviedb
+# 🎬 TMVDB - FLUTTER
 
-A Movies & TVShows flutter app built using the TMVDB API
+A Movies & TV Shows flutter app built using the TMVDB API
+
+
+
 
 ## Getting Started
 
