@@ -2,10 +2,13 @@
 
 A Movies & TV Shows flutter app built using the TMVDB API
 
-#Let's get started with :
+# Overview 
 
-##The Splash screen & Home page :
+The main goal behind this project is developing an app to improve my knowledge about the **Flutter Framework**, in this project I've used **THE MOVIE DB** API as the main data source
 
 
-<img src="https://i.imgur.com/wGHzABt.gif" height="500em" />
+## The Splash screen & Home page :
+
+
+<img src="https://i.imgur.com/wGHzABt.gif" height="500em" /> <img src="https://i.imgur.com/6edOw7s.gif" height="500em" />
 
