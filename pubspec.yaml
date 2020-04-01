@@ -1,0 +1,53 @@
+name: themoviesdb
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  http: ^0.12.0+4
+  percent_indicator: "^2.1.1"
+  connectivity: ^0.4.8+2
+  rflutter_alert: ^1.0.2
+  cached_network_image: ^2.0.0
+  palette_generator: ^0.2.2
+  shared_preferences: ^0.5.6+3
+  url_launcher: ^5.4.2
+  youtube_player_flutter: ^6.1.0+4
+  flutter_tags: "^0.1.9"
+  intl: ^0.16.1
+  gson: ^0.1.4
+  toast: ^0.1.5
+  popup_menu: ^1.0.5
+  md2_tab_indicator: ^1.0.2
+  json_annotation:
+  dots_indicator: ^1.0.0
+
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/icon_logo.png
+    - assets/images/lines.png
+    - assets/images/lines_vertical.png
+    - assets/images/loading.gif
+    - assets/images/no_video.png
+    - assets/images/youtube_logo.png
+    - assets/images/no_result.png
+    - assets/images/waiting_search.png
+    - assets/images/waiting_for_internet.png
+    - assets/images/welcome.png
+    - assets/images/tvshow.png
+    - assets/images/movies.png
+  fonts:
+    - family: PoppinsMedium
+      fonts:
+        - asset: assets/fonts/Poppins-Medium.ttf
