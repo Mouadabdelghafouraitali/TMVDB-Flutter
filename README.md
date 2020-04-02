@@ -79,6 +79,13 @@ Search for a specific movie, TV show, list of movie/TV show by genre.
 [json_annotation](https://pub.dev/packages/json_annotation)
 
 [dots_indicator](https://pub.dev/packages/dots_indicator)
+
+
+## Next features : 
+
+- [ ] Pagination
+- [ ] Notification
+- [ ] Support different screen sizes
  
 # License
 
