@@ -20,7 +20,7 @@ A normal Splash screen and Home page shows the top 3 of currently airing TV Show
 
 The Movie section contains the popular, now playing, upcoming and top-rated movies, movie details shows the primary information of the movie as well as the overview, genres, videos trailers, reviews, casts/crew, and the similar movies.
 
-<img src="https://i.imgur.com/BsT8HLk.gif" height="500em" /> <img src="https://i.imgur.com/2o6HYgt.gif" height="500em" /> <img src="https://i.imgur.com/oZd6g0g.gif" height="500em" />
+<img src="https://i.imgur.com/BsT8HLk.gif" height="500em" /> <img src="https://i.imgur.com/lmDcnzV.gif" height="500em" /> <img src="https://i.imgur.com/oZd6g0g.gif" height="500em" />
 
 
 
