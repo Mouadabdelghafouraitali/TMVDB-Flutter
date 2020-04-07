@@ -1,4 +1,4 @@
-const String api_key = 'eeb4c3092927dae708e1ec3e0f3d35bb';
+const String api_key = 'YOU API KEY HERE';
 const String on_the_air = 'https://api.themoviedb.org/3/tv/on_the_air';
 const String next_episode = 'https://api.themoviedb.org/3/tv/';
 const String tv_show = 'https://api.themoviedb.org/3/tv/';
